@@ -1,0 +1,7 @@
+
+.hugo_build.lock
+*.bat
+.vscode/
+docs/
+
+resources/_gen/
